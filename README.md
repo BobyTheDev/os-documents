@@ -1,6 +1,6 @@
 # os-documents
-esx_documents converted for QBCore. 
-
+esx_documents converted for QBCore. Special Thanks to https://github.com/apoiat/ESX_Documents for creating the resource / script. All Rights reserved to him!
+I do not give any support for that! Change translations in client and server file
 
 <div align="center">
 
