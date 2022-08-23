@@ -14,7 +14,7 @@ ____
 
 
 ## Introduction
-Introducing Documents, a great roleplaying addition script for fivem servers using the esx framework. <b>This script provides creation, signing, copying and displaying of documents to enrich players' roleplaying experience</b>. Basically you have two type of documents:
+Introducing Documents, a great roleplaying addition script for fivem servers using the qbcore framework. <b>This script provides creation, signing, copying and displaying of documents to enrich players' roleplaying experience</b>. Basically you have two type of documents:
 * Public documents
 
   * Affirmation form
@@ -48,10 +48,10 @@ The following document functions are available
 * Public documents
 * Job specific documents
 * Custom documents creation
-* Localization (gr/en/br/de)
+* Localization (en)
 
 ## Requirements
-* ESX framework
+* QBCore framework
 
 ## Download & Installation
 > <b>Important note:</b>
@@ -74,7 +74,7 @@ start os-documents
 ```
 
 ## How to use
-Unless specified otherwise (in the config file) the hotkey assigned for the documents menu is "L". Releasing it will open up the main menu. From there you can chose to access publicly available documents, job-specific documents or your saved documents. The menu is pretty straightforward. This script comes with some common premade forms for you but if you want to create your own check out the following section.
+Unless specified otherwise (in the config file) the hotkey assigned for the documents menu is "DEL". Releasing it will open up the main menu. From there you can chose to access publicly available documents, job-specific documents or your saved documents. The menu is pretty straightforward. This script comes with some common premade forms for you but if you want to create your own check out the following section.
 
 ## How to create your own document.
 Each document is assigned to a specific category. This category can be <b>public</b> for everyone or a <b>job name</b> to be accessible only by citizens in that specific job.
